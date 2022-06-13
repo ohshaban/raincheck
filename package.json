@@ -1,0 +1,34 @@
+{
+  "name": "raincheck",
+  "version": "1.0.0",
+  "description": "Raincheck is an open-source event management API",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohshaban/raincheck.git"
+  },
+  "keywords": [
+    "event",
+    "management",
+    "open-source",
+    "API"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ohshaban/raincheck/issues"
+  },
+  "homepage": "https://github.com/ohshaban/raincheck#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "nodemon": "^2.0.16"
+  }
+}

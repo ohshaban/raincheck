@@ -1,0 +1,31 @@
+#+title: API
+
+* Events
+** Fields
+*** Event ID
+*** Organizer
+*** Title
+*** Date
+*** Description
+*** Location
+*** Link
+*** Participants
+** Calls
+*** Get
+*** Create
+*** Delete
+*** Modify
+* Users
+** Fields
+*** User ID
+hashed phone number
+*** First Name
+*** Last Name
+*** Date Created
+*** Events
+** Calls
+*** Create
+*** Update
+*** Get
+* Invite
+?
